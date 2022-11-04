@@ -3,8 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-  <br> 
+<p> 
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width ="400"/>              
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=dark&hide_border=true" alt="GitHub Most Used Languages" width ="400"/>
@@ -18,7 +17,7 @@
         <br>     
 </div>
 
-  
+ </p> 
   
 
 
