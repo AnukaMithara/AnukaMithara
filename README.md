@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494)
+</p>
+
