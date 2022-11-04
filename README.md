@@ -12,7 +12,9 @@ Currently, I am a Computer Engineering Undergraduate student at the University o
         <br>
         <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="25" />
         <br>
-        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="25" />
+        <a href="https://github.com/AnukaMithara">
+        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="35" />
+        </a>
         <br>
         <br>
 </div>
