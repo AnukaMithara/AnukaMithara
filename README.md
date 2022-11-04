@@ -17,7 +17,7 @@
          <br>     
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200"/>
         <br><br>
-
+<div style="line-height:10px">
 <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/instagram.svg" alt="anukamithara" height="30" width="30"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/facebook.svg" alt="anukamithara" height="30" width="30" /></a>
   <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/gmail.svg" alt="anukamithara" height="30" width="30"/></a>
@@ -25,7 +25,7 @@
 <a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/whatsapp.svg" alt="anukamithara" height="30" width="30" /></a>
           
 </div>
-
+</div>
 
   
 
