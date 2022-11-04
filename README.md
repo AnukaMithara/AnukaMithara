@@ -8,7 +8,7 @@
         <br>       
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200" />
         <br>
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="200" />
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="50" />
         <br>
         <br>
 </div>
