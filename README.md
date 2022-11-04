@@ -19,7 +19,7 @@
         <br><br>
 <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
-  <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
   <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8" /></a>
 <a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 
