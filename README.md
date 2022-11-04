@@ -23,9 +23,21 @@
 </div>	
 	
 <div align=right>
+	
+	
+<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
+</picture></a>	
+	
+	
 <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	
 <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" media="(prefers-color-scheme: dark)" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg#gh-light-mode-only" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+	
+	
+	
 	
 	
 	  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
