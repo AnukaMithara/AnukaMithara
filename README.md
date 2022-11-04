@@ -36,32 +36,33 @@
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg">
 </picture></a>
 </div>	
-	
+	<div>
 	<a href ="https://www.facebook.com/AnukaMithara/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" height="30" width="30" hspace="8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook2.svg" height="30" width="30" hspace="8">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg">
 </picture></a>
-	
-	
+	</div>
+	<div>
 	<a href = "https://twitter.com/AnukaMithara" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" height="30" width="30" hspace="8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter2.svg" height="30" width="30" hspace="8">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg">
 </picture></a>
-	
+		</div>
+	<div>
 	<a href = "https://wa.me/94768345156" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg" height="30" width="30" hspace="8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp2.svg" height="30" width="30" hspace="8">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg">
 </picture></a>
-	
-	
+	</div>
+	<div>
 	<a href = "https://www.instagram.com/_a_n_u_k/" target="_blank"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg" height="30" width="30" hspace="8">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram2.svg" height="30" width="30" hspace="8">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg">
 </picture></a>
-	
+	</div>
 	
 	
 </div>
