@@ -10,9 +10,9 @@ Currently, I am a Computer Engineering Undergraduate student at the University o
         <br>       
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200" />
         <br>
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="25" />
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="30" />
         <a href="https://github.com/AnukaMithara">
-        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="35" />
+        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
         </a>  
         <br>     
 </div>
