@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494)
