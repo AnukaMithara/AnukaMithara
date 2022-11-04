@@ -17,11 +17,12 @@
          <br>     
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200"/>
         <br><br>
-<a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+	  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
-  <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
-  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+	 <a href="https://twitter.com/AnukaMithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 <a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+	<a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 
 </div>
 
