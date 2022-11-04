@@ -2,7 +2,7 @@
 <h1>Hi there 👋</h1>
 <strong>
 Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna       
-</strong>
+</strong><br> 
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
         <br>       
