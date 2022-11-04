@@ -18,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200"/>
         <br><br>
 
-<a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/instagram.svg" alt="anukamithara" height="30" width="30" style="float:left"/></a>
+<a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/instagram.svg" alt="anukamithara" height="30" width="30" hspace="20"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/facebook.svg" alt="anukamithara" height="30" width="30" /></a>
   <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/gmail.svg" alt="anukamithara" height="30" width="30"/></a>
   <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/linkedin.svg" alt="anukamithara" height="30" width="30" /></a>
