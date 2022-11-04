@@ -26,8 +26,8 @@
 	
 	
 <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" height="30" width="30" hspace="8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg" height="30" width="30" hspace="8">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
 </picture></a>	
 	
