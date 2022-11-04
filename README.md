@@ -20,9 +20,9 @@
 
   <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=flat-square&logo=instagram" target="_blank"></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=flat-square&logo=facebook" target="_blank"></a> 
-  <a href = "mailto:anukamithara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:anukamithara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail" target="_blank"></a>
   <a href="www.linkedin.com/in/anukamithara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=flat-square&logo=linkedin" target="_blank"></a> 
-<a href="https://wa.me/94768345156" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=flat-square&logo=whatsapp" target="_blank" height="30"></a>
+<a href="https://wa.me/94768345156" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=flat-square&logo=whatsapp" target="_blank" height="15"></a>
 
           
 </div>
