@@ -18,11 +18,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200"/>
         <br>
 
-  <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:anukamithara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://wa.me/94768345156" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=flat-square&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:anukamithara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://wa.me/94768345156" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
 
           
 </div>
