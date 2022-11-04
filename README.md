@@ -19,6 +19,7 @@ Currently, I am a Computer Engineering Undergraduate student at the University o
 
 # 📊 GitHub Stats:
 <p align="center">
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -26,5 +27,7 @@ Currently, I am a Computer Engineering Undergraduate student at the University o
 ---
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494)
-</p>
+    
+  
+
 
