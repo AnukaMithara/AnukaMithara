@@ -1,74 +1,122 @@
+<h1 align="center">Hi , I'm Anuka Mithara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+        width="35"></h1>
 
-<h1 align="center">Hi , I'm Anuka Mithara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <body style="background-color:white;">
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+    <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img
+                src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+    </p>
 
-<p align="center"> 
-	  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=0dba33" alt="GitHub Streak Stats" height="30" />
-    <a href="https://github.com/AnukaMithara">
-        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
-    </a>  
-</p>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=0dba33"
+            alt="GitHub Streak Stats" height="30" />
+        <a href="https://github.com/AnukaMithara">
+            <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
+        </a>
+    </p>
 
-<div align=center>
+    <div align=center>
         <h2>Contribution Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width ="400"/>              
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=dark&hide_border=true" alt="GitHub Most Used Languages" width ="400"/>
-         <br>     
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+            alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=dark&hide_border=true"
+            alt="GitHub Most Used Languages" width="400" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+            alt="GitHub Streak Stats" height="200" />
         <br><br>
-	
-</div>	
-	
-<div align=right>	
-<span>	
-<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" height="30" width="30" hspace="8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg" height="30" width="30" hspace="8">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
-</picture></a>	
-</span>	
-	
-<span>
-	<a href = "mailto:anukamithara@gmail.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" height="30" width="30" hspace="8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail2.svg" height="30" width="30" hspace="8">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg">
-</picture></a>
-</span>
-	
-<span>
-	<a href ="https://www.facebook.com/AnukaMithara/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" height="30" width="30" hspace="8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook2.svg" height="30" width="30" hspace="8">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg">
-</picture></a>
-</span>
 
-<span>	
-<a href = "https://twitter.com/AnukaMithara" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" height="30" width="30" hspace="8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter2.svg" height="30" width="30" hspace="8">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg">
-</picture></a>
-</span>
-		
-<span>
-<a href = "https://wa.me/94768345156" target="_blank"><picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg" height="30" width="30" hspace="8">
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp2.svg" height="30" width="30" hspace="8">
-<img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg">
-</picture></a>
-</span>
-		
-<span>
-<a href = "https://www.instagram.com/_a_n_u_k/" target="_blank"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg" height="30" width="30" hspace="8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram2.svg" height="30" width="30" hspace="8"><img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg">
-	</picture></a>
-</span>	
-	
-</div>
+    </div>
 
+    <div align=right>
+        <span>
+            <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" height="30"
+                        width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg"
+                        height="30" width="30" hspace="8">
+                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
+                </picture>
+            </a>
+        </span>
 
+        <span>
+            <a href="mailto:anukamithara@gmail.com" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" height="30"
+                        width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail2.svg" height="30"
+                        width="30" hspace="8">
+                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg">
+                </picture>
+            </a>
+        </span>
 
+        <span>
+            <a href="https://www.facebook.com/AnukaMithara/" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" height="30"
+                        width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook2.svg"
+                        height="30" width="30" hspace="8">
+                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg">
+                </picture>
+            </a>
+        </span>
 
+        <span>
+            <a href="https://twitter.com/AnukaMithara" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" height="30"
+                        width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter2.svg" height="30"
+                        width="30" hspace="8">
+                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg">
+                </picture>
+            </a>
+        </span>
+
+        <span>
+            <a href="https://wa.me/94768345156" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg" height="30"
+                        width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp2.svg"
+                        height="30" width="30" hspace="8">
+                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/whatsapp.svg">
+                </picture>
+            </a>
+        </span>
+
+        <span>
+            <a href="https://www.instagram.com/_a_n_u_k/" target="_blank">
+                <picture>
+                    <source media="(prefers-color-scheme: dark)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg"
+                        height="30" width="30" hspace="8">
+                    <source media="(prefers-color-scheme: light)"
+                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram2.svg"
+                        height="30" width="30" hspace="8"><img
+                        alt="Shows a black logo in light color mode and a white one in dark color mode."
+                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg">
+                </picture>
+            </a>
+        </span>
+
+    </div>
