@@ -7,7 +7,7 @@
                 src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     </p>
 
-    <p align="center">
+<p align="center">
         <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=0dba33"
             alt="GitHub Streak Stats" height="30" />
         <a href="https://github.com/AnukaMithara">
@@ -15,7 +15,7 @@
         </a>
     </p>
 
-    <div align=center>
+<div align=center>
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
             alt="GitHub Stats" width="400" />
@@ -26,9 +26,9 @@
             alt="GitHub Streak Stats" height="200" />
         <br><br>
 
-    </div>
+</div>
 
-    <div align=right>
+<div align=right>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
                 <picture>
@@ -44,7 +44,7 @@
             </a>
         </span>
 
-        <span>
+  <span>
             <a href="mailto:anukamithara@gmail.com" target="_blank">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -59,7 +59,7 @@
             </a>
         </span>
 
-        <span>
+ <span>
             <a href="https://www.facebook.com/AnukaMithara/" target="_blank">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -74,7 +74,7 @@
             </a>
         </span>
 
-        <span>
+  <span>
             <a href="https://twitter.com/AnukaMithara" target="_blank">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -89,7 +89,7 @@
             </a>
         </span>
 
-        <span>
+<span>
             <a href="https://wa.me/94768345156" target="_blank">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -104,7 +104,7 @@
             </a>
         </span>
 
-        <span>
+ <span>
             <a href="https://www.instagram.com/_a_n_u_k/" target="_blank">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -119,4 +119,4 @@
             </a>
         </span>
 
-    </div>
+</div>
