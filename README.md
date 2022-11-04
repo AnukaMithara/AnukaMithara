@@ -1,5 +1,6 @@
-<body style="background-color:white;">
+
 <h1 align="center">Hi , I'm Anuka Mithara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<body style="background-color:white;">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -22,7 +23,7 @@
 </div>	
 	
 <div align=right>
-<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg#gh-dark-mode-only" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	 <a href="https://twitter.com/AnukaMithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
