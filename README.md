@@ -1,6 +1,5 @@
 <div align=center>
-### Hi there 👋
-
+<h1>Hi there 👋</h1>
 Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna
  </div>
 
