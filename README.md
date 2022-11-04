@@ -20,7 +20,7 @@
 	
 </div>	
 	
-<div align=left>
+<div align=right>
 <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
