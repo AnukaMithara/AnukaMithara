@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=green)
