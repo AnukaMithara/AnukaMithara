@@ -1,7 +1,10 @@
 <div align=center>
 <h1>Hi there 👋</h1>
 <strong>
-Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna  
+Currently, I am a Computer Engineering Undergraduate student at the University of Jaffna 
+ <a href="https://github.com/AnukaMithara">
+        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="35" />
+        </a>        
 </strong>
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" />
@@ -11,12 +14,7 @@ Currently, I am a Computer Engineering Undergraduate student at the University o
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Streak Stats" height="200" />
         <br>
         <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=6e5494" alt="GitHub Streak Stats" height="25" />
-        <br>
-        <a href="https://github.com/AnukaMithara">
-        <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="35" />
-        </a>
-        <br>
-        <br>
+        <br>     
 </div>
 
   
