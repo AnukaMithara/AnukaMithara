@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/instagram.svg" alt="anukamithara" height="30" width="40" /></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/facebook.svg" alt="anukamithara" height="30" width="40" /></a>
   <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/gmail.svg" alt="anukamithara" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/likedin.svg" alt="anukamithara" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/linkedin.svg" alt="anukamithara" height="30" width="40" /></a>
 <a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/whatsapp.svg" alt="anukamithara" height="30" width="40" /></a>
           
 </div>
