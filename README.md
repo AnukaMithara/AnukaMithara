@@ -24,6 +24,7 @@
 	
 <div align=right>
 <a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg#gh-dark-mode-only" alt="anukamithara" height="30" width="30" hspace="8"/></a>
+<a href = "https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg#gh-light-mode-only" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	  <a href = "mailto:anukamithara@gmail.com" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
  <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
 	 <a href="https://twitter.com/AnukaMithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" alt="anukamithara" height="30" width="30" hspace="8"/></a>
