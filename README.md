@@ -23,7 +23,8 @@
   <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/gmail.svg" alt="anukamithara" height="20" width="20" hspace="8"/></a>
   <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/linkedin.svg" alt="anukamithara" height="20" width="20" hspace="8" /></a>
 <a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/whatsapp.svg" alt="anukamithara" height="20" width="20" hspace="8"/></a>
-          
+
+
 </div>
 
   
