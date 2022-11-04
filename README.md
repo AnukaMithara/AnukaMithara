@@ -8,9 +8,6 @@
     <a href="https://github.com/AnukaMithara">
         <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
     </a>  
-	  <a href = "https://commits.top/sri_lanka.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="AnukaMithara" target="_blank"/> 
-	</a>
 </p>
 
 <div align=center>
