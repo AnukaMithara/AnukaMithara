@@ -19,12 +19,10 @@
         <br>
 
 <a href="https://www.instagram.com/_a_n_u_k/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/instagram.svg" alt="anukamithara" height="30" width="40" /></a>
- <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23333?style=flat-square&logo=facebook" target="_blank" height="25"></a> 
-  <a href = "mailto:anukamithara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail" target="_blank" height="25"></a>
-  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=flat-square&logo=linkedin" target="_blank" height="25"></a> 
-<a href="https://wa.me/94768345156" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23333?style=flat-square&logo=whatsapp" target="_blank" height="25"></a>
-
-
+ <a href="https://www.facebook.com/AnukaMithara/" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/facebook.svg" alt="anukamithara" height="30" width="40" /></a>
+  <a href = "mailto:anukamithara@gmail.com"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/gmail.svg" alt="anukamithara" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/anukamithara" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/likedin.svg" alt="anukamithara" height="30" width="40" /></a>
+<a href="https://wa.me/94768345156" target="_blank"><img align="center" src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source/whatsapp.svg" alt="anukamithara" height="30" width="40" /></a>
           
 </div>
 
