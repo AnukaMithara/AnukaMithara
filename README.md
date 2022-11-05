@@ -26,7 +26,15 @@
         <br><br>
 
 </div>
-    -----
+ 
+    <br>
+
+
+-----
+Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
+Last Edited on: 04/09/2021
+    
 <div align=right>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
