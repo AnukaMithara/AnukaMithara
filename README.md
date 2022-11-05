@@ -30,7 +30,6 @@
 </div> 
 
 -----
-
 <div align=right>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
