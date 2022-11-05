@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Anuka Mithara <img src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/giphy.gif" width="50"></h1>
+<h1 align="center"><img src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/giphy.gif" width="80">Hi , I'm Anuka Mithara</h1>
 
 <p>
     <p align="center">
