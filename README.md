@@ -2,7 +2,7 @@
 
 <p>
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Monolisa&duration=3000&pause=500&color=1CDC46&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50">
+        <a href="https://github.com/AnukaMithara"><img src="https://readme-typing-svg.herokuapp.com?font=Monolisa&size=25&pause=1000&background=FFFFFF00&width=435&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"> </a>
     </p>
  </p>
 
