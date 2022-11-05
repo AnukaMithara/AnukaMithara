@@ -13,6 +13,8 @@
             <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
         </a>
     </p>
+    
+-----
 
 <div align=center>
         <h2>Contribution Activity</h2>
@@ -27,10 +29,8 @@
 
 </div>
  
-
 -----
 
-    
 <div align=right>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
