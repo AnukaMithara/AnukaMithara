@@ -16,7 +16,7 @@
     </p>
    
 
-<div align=center>
+| <div align=center>
         <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
             alt="GitHub Stats" width="400" />
@@ -27,7 +27,7 @@
             alt="GitHub Streak Stats" height="200" />
         <br><br>
 
-</div> 
+</div> |
 
 -----
 <div align=right>
