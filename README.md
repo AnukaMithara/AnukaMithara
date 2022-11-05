@@ -6,7 +6,7 @@
                 src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
     </p>
  </p>
- -----
+
 <p align="center">
         <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=0dba33"
             alt="GitHub Streak Stats" height="30" />
@@ -27,10 +27,8 @@
             alt="GitHub Streak Stats" height="200" />
         <br><br>
 
-</div>
- 
+</div> 
 -----
-
 <div align=right>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
