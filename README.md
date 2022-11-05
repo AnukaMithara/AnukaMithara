@@ -29,7 +29,8 @@
 
 </div>
 
------ ## Connect with me 🤝
+----- 
+## Connect with me 🤝
 
 <div align=right>
         <span>
