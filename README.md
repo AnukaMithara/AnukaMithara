@@ -33,7 +33,7 @@
 
 
 <span>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"  width=80%/>           
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"  width=83%/>           
 </span>    
         
 
