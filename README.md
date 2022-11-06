@@ -34,10 +34,8 @@
 
 <span>
     <img src="https://capsule-render.vercel.app/api?section=footer&type=rect&color=gradient&height=10"  width=82%/>           
-</span>    
-        
-
-<div align=right>
+</span>           
+<span align=right>
 <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
                 <picture>
@@ -112,4 +110,4 @@
         </picture>
     </a>
 </span>
-        </div>
+        </span>
