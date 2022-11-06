@@ -1,5 +1,5 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Anuka Mithara 👋&fontAlign=80&fontAlignY=40&color=gradient)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Anuka Mithara 👋&fontAlign=80&fontAlignY=40&color=gradient" alt="Waving"/>
+           
 <p>
     <p align="center">
         <a href="https://github.com/AnukaMithara"><img src="https://readme-typing-svg.herokuapp.com?font=Monolisa&size=25&pause=1000&background=FFFFFF00&width=435&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"> </a>
