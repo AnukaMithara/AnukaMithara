@@ -34,7 +34,7 @@
 <div align=right>
  <span>
 <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=2&color=gradient" width=100%/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=20&color=gradient" width=100%/>
 </p>
 </span>
         <span>
