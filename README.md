@@ -30,12 +30,13 @@
         <br><br>
 
 </div>
-
-
-<span>
-    <center><img src="https://capsule-render.vercel.app/api?section=header&type=soft&color=gradient&height=2"  width=800/></center>           
-</span>           
+         
 <span align=right>
+ 
+ <span>
+    <center><img src="https://capsule-render.vercel.app/api?section=header&type=soft&color=gradient&height=2"  width=600/></center>           
+</span>  
+ 
 <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
                 <picture>
