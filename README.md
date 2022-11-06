@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Anuka Mithara 👋&fontAlign=80&fontAlignY=40&color=gradient" alt="Waving"/>
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
            
 <p>
     <p align="center">
