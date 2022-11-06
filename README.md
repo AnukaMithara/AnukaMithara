@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anuka Mithara 👋</h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Anuka Mithara 👋&fontAlign=80&fontAlignY=40&color=gradient)
 
 <p>
     <p align="center">
