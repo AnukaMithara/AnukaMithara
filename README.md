@@ -31,7 +31,9 @@
 
 </div>
 
-----------
+<p align="center">
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=2&color=gradient" width=100%/>
+</p>
 
 <div align=right>
         <span>
