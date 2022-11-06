@@ -31,11 +31,12 @@
 
 </div>
 
+<div align=right>
+ <span>
 <p align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&height=2&color=gradient" width=100%/>
 </p>
-
-<div align=right>
+</span>
         <span>
             <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
                 <picture>
