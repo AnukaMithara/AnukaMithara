@@ -34,7 +34,7 @@
 <span align=right>
  
  <span>
-    <center><img src="https://capsule-render.vercel.app/api?section=header&type=soft&color=gradient&height=2"  width=600/></center>           
+    <center><img src="https://capsule-render.vercel.app/api?section=header&type=soft&color=gradient&height=2"  width=650/></center>           
 </span>  
  
 <span>
