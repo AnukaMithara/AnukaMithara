@@ -5,7 +5,7 @@
     
 <p>
     <p align="center">
-        <a href="https://github.com/AnukaMithara"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=25&pause=1000&background=FFFFFF00&width=435&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always+learning+new+things;Open-minded;Supportive;Hardworking&center=true&width=500&height=50"> </a>
+        <a href="https://github.com/AnukaMithara"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=25&pause=700&background=FFFFFF00&width=435&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always+learning+new+things;Open-minded;Supportive;Hardworking&center=true&width=500&height=50"> </a>
     </p>
  </p>
 
