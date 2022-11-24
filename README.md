@@ -10,6 +10,7 @@
  </p>
 
 <p align="center">
+        <!-- View count from 24th November 2022 -->
         <img src="https://komarev.com/ghpvc/?username=AnukaMithara&style=flat-square-username&color=0dba33"
             alt="GitHub Streak Stats" height="30" />
         <a href="https://github.com/AnukaMithara">
