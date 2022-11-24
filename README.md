@@ -10,7 +10,7 @@
  </p>
 
 <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square-username&color=0dba33"
+        <img src="https://komarev.com/ghpvc/?username=AnukaMithara&label=Profile%20views&color=0e75b6&style=flat" alt="itofazzolwahid"
             alt="GitHub Streak Stats" height="30" />
         <a href="https://github.com/AnukaMithara">
             <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
