@@ -37,24 +37,16 @@
 </p>
 
 <h2 align="center">Contribution Activity</h2>
-<table align="center">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-                alt="GitHub Stats" width="380" />
-        </td>
-        <td>
-            <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=github-dark&hide_border=true"
-                alt="GitHub Streak" width="380" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-                alt="Top Languages" width="520" />
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats" width="390" />
+    <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak" width="390" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=tokyonight&hide_border=true&layout=compact"
+        alt="Top Languages" width="520" />
+</p>
         
 <span align=right>
  
