@@ -3,35 +3,51 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hi,%20I'm%20Anuka%20Mithara&animation=fadeIn&fontAlign=50&fontAlignY=28&fontSize=40&color=gradient" width=100%/>
 </p>
     
-<p>
-    <p align="center">
-        <a href="https://github.com/AnukaMithara"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=25&pause=700&background=FFFFFF00&width=435&lines=Computer+Engineering+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always+learning+new+things;Open-minded;Supportive;Hardworking&center=true&width=500&height=50"> </a>
-    </p>
- </p>
-
-<p align="center">
-        <!-- View count from 24th November 2022 -->
+<div align="center">
+    <a href="https://github.com/AnukaMithara">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=24&pause=700&background=FFFFFF00&width=620&lines=Computer+Engineering+Student;Competitive+Programmer;DS+%7C+Algorithms+%7C+OOP;Always+learning+new+things&center=true&height=50" />
+    </a>
+    <p>
         <img src="https://komarev.com/ghpvc/?username=AnukaMithara&style=flat-square-username&color=0dba33"
-            alt="GitHub Streak Stats" height="30" />
+            alt="Profile views" height="28" />
         <a href="https://github.com/AnukaMithara">
-            <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="30" />
+            <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="28" />
         </a>
     </p>
-   
-
-<div align=center>
-        <h2>Contribution Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-            alt="GitHub Stats" width="400" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnukaMithara&theme=dark&hide_border=true"
-            alt="GitHub Most Used Languages" width="400" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-            alt="GitHub Streak Stats" height="200" />
-        <br><br>
-
 </div>
-         
+
+<h2 align="center">About Me</h2>
+<p align="center">
+    Computer Engineering student focused on building reliable software and tackling challenging algorithmic problems.
+    I enjoy collaborative projects, continuous learning, and refining my problem-solving toolkit.
+</p>
+<p align="center">
+    <strong>Interested in:</strong> Data Structures, Algorithms, OOP, and Systems Design.<br>
+    <strong>Currently exploring:</strong> Cloud-native development and performance optimization.<br>
+    <strong>Open to:</strong> Collaboration on open-source and competitive programming projects.
+</p>
+
+<h2 align="center">Tech Focus</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h2 align="center">Contribution Activity</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats" width="390" />
+    <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak" width="390" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=tokyonight&hide_border=true&layout=compact"
+        alt="Top Languages" width="520" />
+</p>
+        
 <span align=right>
  
  <span>
