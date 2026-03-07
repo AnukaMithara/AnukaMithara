@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Anuka%20Mithara&fontAlign=50&fontAlignY=40&fontSize=42&desc=AI%20Systems%20Engineering%20|%20Automation%20Platforms&descAlign=50&descAlignY=65&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Anuka%20Mithara&fontAlign=50&fontAlignY=40&fontSize=42&desc=Software%20Engineering%20|%20AI%20Systems%20|%20Automation&descAlign=50&descAlignY=65&animation=fadeIn&color=gradient" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+Systems;Agentic+Workflows;Backend+Architecture;Automation+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Software+Engineering;AI+Systems;Agentic+Workflows;Automation+Engineering" />
 </p>
 
 <p align="center">
