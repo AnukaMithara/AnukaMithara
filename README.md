@@ -1,135 +1,136 @@
-
 <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hi,%20I'm%20Anuka%20Mithara&animation=fadeIn&fontAlign=50&fontAlignY=28&fontSize=40&color=gradient" width=100%/>
-</p>
-    
-<div align="center">
-    <a href="https://github.com/AnukaMithara">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=24&pause=700&background=FFFFFF00&width=620&lines=Computer+Engineering+Student;Competitive+Programmer;DS+%7C+Algorithms+%7C+OOP;Always+learning+new+things&center=true&height=50" />
-    </a>
-    <p>
-        <img src="https://komarev.com/ghpvc/?username=AnukaMithara&style=flat-square-username&color=0dba33"
-            alt="Profile views" height="28" />
-        <a href="https://github.com/AnukaMithara">
-            <img src="https://img.shields.io/github/followers/AnukaMithara?label=Follow&style=social" height="28" />
-        </a>
-    </p>
-</div>
-
-<h2 align="center">About Me</h2>
-<p align="center">
-    Computer Engineering student focused on building reliable software and tackling challenging algorithmic problems.
-    I enjoy collaborative projects, continuous learning, and refining my problem-solving toolkit.
-</p>
-<p align="center">
-    <strong>Interested in:</strong> Data Structures, Algorithms, OOP, and Systems Design.<br>
-    <strong>Currently exploring:</strong> Cloud-native development and performance optimization.<br>
-    <strong>Open to:</strong> Collaboration on open-source and competitive programming projects.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Anuka%20Mithara&fontAlign=50&fontAlignY=35&fontSize=45&desc=Engineer%20|%20AI%20Builder%20|%20Systems%20Thinker&descAlign=50&descAlignY=60&animation=fadeIn&color=gradient" width="100%" />
 </p>
 
-<h2 align="center">Tech Focus</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Systems+Engineering;Agentic+AI+Workflows;Backend+Architecture+%26+Microservices;Automation+%7C+DevOps+%7C+LLM+Engineering;Building+Practical+AI+Products" />
 </p>
 
-<h2 align="center">Contribution Activity</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Stats" width="390" />
-    <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak" width="390" />
+  <img src="https://komarev.com/ghpvc/?username=AnukaMithara&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/AnukaMithara?label=Followers&style=social" />
 </p>
+
+---
+
+# About
+
+Engineer focused on **AI systems, backend architecture, and automation platforms**.
+
+Primary focus areas:
+
+- Agentic AI systems
+- LLM workflows
+- Distributed backend services
+- Developer tooling and infrastructure
+- Automation platforms
+
+Work philosophy:
+
+- Build systems that **scale**
+- Automate repetitive engineering tasks
+- Design software as **modular reusable platforms**
+
+---
+
+# Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,go" />
+</p>
+
+### Backend / Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
+</p>
+
+### AI / ML / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,redis,postgres,mysql" />
+</p>
+
+### DevOps / Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode,figma,postman" />
+</p>
+
+---
+
+# Engineering Focus
+
+- AI Agent Orchestration
+- LLM Tooling
+- Microservice Architecture
+- Data Pipelines
+- Automation Systems
+- Backend Framework Design
+
+---
+
+# GitHub Analytics
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&theme=tokyonight&hide_border=true&layout=compact"
-        alt="Top Languages" width="520" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-        
-<span align=right>
- 
- <span>
-    <center><img src="https://capsule-render.vercel.app/api?section=header&type=soft&color=auto&height=1"  width=670/></center>           
-</span>  
- 
-<span>
-            <a href="https://www.linkedin.com/in/anuka-mithara-20316b130/" target="_blank">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)"
-                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg" height="30"
-                        width="30" hspace="8">
-                    <source media="(prefers-color-scheme: light)"
-                        srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin2.svg"
-                        height="30" width="30" hspace="8">
-                    <img alt="Shows a black logo in light color mode and a white one in dark color mode."
-                        src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/linkedin.svg">
-                </picture>
-            </a>
-        </span>
 
-  <span>
-    <a href="mailto:anukamithara@gmail.com" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg" height="30"
-                width="30" hspace="8">
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail2.svg" height="30"
-                width="30" hspace="8">
-            <img alt="Shows a black logo in light color mode and a white one in dark color mode."
-                src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/gmail.svg">
-        </picture>
-    </a>
-</span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
- <span>
-    <a href="https://www.facebook.com/AnukaMithara/" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg" height="30"
-                width="30" hspace="8">
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook2.svg"
-                height="30" width="30" hspace="8">
-            <img alt="Shows a black logo in light color mode and a white one in dark color mode."
-                src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/facebook.svg">
-        </picture>
-    </a>
-</span>
+---
 
-<span>
-    <a href="https://twitter.com/AnukaMithara" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg" height="30"
-                width="30" hspace="8">
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter2.svg" height="30"
-                width="30" hspace="8">
-            <img alt="Shows a black logo in light color mode and a white one in dark color mode."
-                src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/twitter.svg">
-        </picture>
-    </a>
-</span>
+# Contribution Graph
 
- <span>
-    <a href="https://www.instagram.com/_a_n_u_k/" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg"
-                height="30" width="30" hspace="8">
-            <source media="(prefers-color-scheme: light)"
-                srcset="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram2.svg"
-                height="30" width="30" hspace="8"><img
-                alt="Shows a black logo in light color mode and a white one in dark color mode."
-                src="https://github.com/AnukaMithara/AnukaMithara/blob/main/source2/instagram.svg">
-        </picture>
-    </a>
-</span>
-</span>
-        
-        
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnukaMithara&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
+---
 
+# Current Focus
 
+- Building AI automation systems
+- Designing reusable backend frameworks
+- Experimenting with local LLM infrastructure
+- Multi-agent orchestration platforms
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anuka-mithara-20316b130/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:anukamithara@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://twitter.com/AnukaMithara">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
+</p>
