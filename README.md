@@ -19,11 +19,11 @@ Engineer focused on **AI systems, backend architecture, and automation platforms
 
 Primary focus areas:
 
-- Agentic AI systems
-- LLM workflows
-- Distributed backend services
-- Developer tooling and infrastructure
-- Automation platforms
+- Agentic AI systems  
+- LLM workflows  
+- Distributed backend services  
+- Developer tooling and infrastructure  
+- Automation platforms  
 
 Work philosophy:
 
@@ -72,12 +72,12 @@ Work philosophy:
 
 # Engineering Focus
 
-- AI Agent Orchestration
-- LLM Tooling
-- Microservice Architecture
-- Data Pipelines
-- Automation Systems
-- Backend Framework Design
+- AI Agent Orchestration  
+- LLM Tooling  
+- Microservice Architecture  
+- Data Pipelines  
+- Automation Systems  
+- Backend Framework Design  
 
 ---
 
@@ -104,10 +104,10 @@ Work philosophy:
 
 # Current Focus
 
-- Building AI automation systems
-- Designing reusable backend frameworks
-- Experimenting with local LLM infrastructure
-- Multi-agent orchestration platforms
+- Building AI automation systems  
+- Designing reusable backend frameworks  
+- Experimenting with local LLM infrastructure  
+- Multi-agent orchestration platforms  
 
 ---
 
@@ -115,7 +115,7 @@ Work philosophy:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anuka-mithara-20316b130/">
+<a href="https://www.linkedin.com/in/anukamithara/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -123,8 +123,8 @@ Work philosophy:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://twitter.com/AnukaMithara">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<a href="https://x.com/AnukaMithara">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
