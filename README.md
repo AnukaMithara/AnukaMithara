@@ -27,9 +27,9 @@ Primary focus areas:
 
 Work philosophy:
 
-- Build systems that **scale**
-- Automate repetitive engineering tasks
-- Design software as **modular reusable platforms**
+- Build systems that scale  
+- Automate repetitive engineering tasks  
+- Design software as modular reusable platforms  
 
 ---
 
@@ -84,20 +84,21 @@ Work philosophy:
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnukaMithara&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=AnukaMithara&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnukaMithara&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnukaMithara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnukaMithara&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnukaMithara&theme=tokyonight">
 </p>
 
----
-
-# Contribution Graph
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnukaMithara&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnukaMithara&theme=tokyonight">
+</p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnukaMithara&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnukaMithara&theme=tokyo-night&hide_border=true" width="95%">
 </p>
 
 ---
