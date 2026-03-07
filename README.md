@@ -125,7 +125,7 @@ Work philosophy:
 </a>
 
 <a href="https://x.com/AnukaMithara">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/x/white" height="48"/>
 </a>
 
 </p>
@@ -135,3 +135,4 @@ Work philosophy:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
 </p>
+
